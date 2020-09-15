@@ -1,1 +1,6 @@
 output/
+me.jpg
+build/
+__pycache__/
+dist/
+*.spec
